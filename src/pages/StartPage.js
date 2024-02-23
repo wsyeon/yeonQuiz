@@ -140,7 +140,7 @@ const Input = styled.input`
   text-align: center;
 `;
 
-const Button = styled.div`
+const Button = styled.button`
   border: none;
   border-radius: 20px;
   font-size: 16px;
