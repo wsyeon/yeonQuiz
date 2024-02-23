@@ -2,150 +2,150 @@
   {
     "id": 1,
     "title": "Question1",
-    "question": "1665년에 발표된 \"올림피아\"라는 작품을 통해 유명한 화가는 누구인가요?",
+    "question": "태양계 8개 행성 중 고리를 가진 행성은 몇 개일까요?",
     "answers": [
       {
-        "point": "10",
-        "content": "레오나르도 다 빈치"
+        "point": "0",
+        "content": "5개"
       },
       {
-        "point": "0",
-        "content": "반 고흐"
+        "point": "10",
+        "content": "4개"
       }
     ]
   },
   {
     "id": 2,
     "title": "Question2",
-    "question": "알파벳 \"A\"부터 \"Z\"까지 모든 알파벳을 한 번씩 사용한 문장을 무엇이라고 부를까요?",
+    "question": "눈에 들어온 평행 광선이 망막 뒤쪽에서 상을 맺어 먼 곳은 잘 보이지만, 가까운 곳은 잘 보이지 않는 눈을 무엇이라고 할까요?",
     "answers": [
       {
-        "point": "0",
-        "content": "디그램"
+        "point": "10",
+        "content": "원시"
       },
       {
-        "point": "10",
-        "content": "팬그램"
+        "point": "0",
+        "content": "근시"
       }
     ]
   },
   {
     "id": 3,
     "title": "Question3",
-    "question": "가장 많은 언어를 번역한 책은 무엇인가요?",
+    "question": "명수의 머리에는 점심에 먹은 김치찌개 냄사가 (베어/배어)",
     "answers": [
       {
-        "point": "10",
-        "content": "성경"
+        "point": "0",
+        "content": "베어"
       },
       {
-        "point": "0",
-        "content": "어린왕자"
+        "point": "10",
+        "content": "배어"
       }
     ]
   },
   {
     "id": 4,
     "title": "Question4",
-    "question": "세계에서 가장 오래된 연극은 어디에서 개최되었나요?",
+    "question": "이것은 유기 화합물이 발광하는 방식을 이용한 발광소자입니다. LCD를 대체할 디스플레이로 각광받고 있으며 많은 기업들이 연구 중에 있는 이 소자는 무엇일까요?",
     "answers": [
       {
-        "point": "10",
-        "content": "그리스"
+        "point": "0",
+        "content": "OLCD"
       },
       {
-        "point": "0",
-        "content": "이탈리아"
+        "point": "10",
+        "content": "OLED"
       }
     ]
   },
   {
     "id": 5,
     "title": "Question5",
-    "question": "최초의 인터넷 브라우저는 무엇인가요?",
+    "question": "다음 중 화력발전에서 가장 많이 사용되는 원료는 무엇일까요?",
     "answers": [
       {
         "point": "10",
-        "content": "월드 와이드 웹"
+        "content": "석탄"
       },
       {
         "point": "0",
-        "content": "크롬"
+        "content": "석유"
       }
     ]
   },
   {
     "id": 6,
     "title": "Question6",
-    "question": "태양에서 가장 가까운 행성은 무엇인가요?",
+    "question": "이것은 세계 공통 인사로, 중세시대 \"나에게는 당신을 해칠 무기가 없다는 것\"을 증명하던 행동에서 유래되었습니다. \"이 행위\"는 무엇일까요?",
     "answers": [
       {
         "point": "10",
-        "content": "수성"
+        "content": "악수"
       },
       {
         "point": "0",
-        "content": "화성"
+        "content": "인사"
       }
     ]
   },
   {
     "id": 7,
     "title": "Question7",
-    "question": "샤넬(CHANEL)의 창립자는 누구인가요?",
+    "question": "생물 분류 체계를 순서대로 적으면 종-속-과-?-강-문-계입니다. ?안에 들어갈 체계는 무엇일까요?",
     "answers": [
       {
         "point": "0",
-        "content": "존 샤넬"
+        "content": "막"
       },
       {
         "point": "10",
-        "content": "코코 샤넬"
+        "content": "목"
       }
     ]
   },
   {
     "id": 8,
     "title": "Question8",
-    "question": "세계에서 가장 큰 사막은 무엇인가요?",
+    "question": "일정 기간 동안 사용한 전력의 양을 전력량이라고 합니다. 다음 중 우리가 실생활에서 전기료 측정하는 데 사용하는 전력량의 단위는 무엇일까요?",
     "answers": [
       {
         "point": "10",
-        "content": "남극 대륙"
+        "content": "Wh(와트아워)"
       },
       {
         "point": "0",
-        "content": "북극 대륙"
+        "content": "V(볼트)"
       }
     ]
   },
   {
     "id": 9,
     "title": "Question9",
-    "question": "세계에서 가장 오래된 뮤지컬은 무엇인가요?",
+    "question": "칠레의 수도는 어디일까요?",
     "answers": [
       {
         "point": "0",
-        "content": "오페라의 유령"
+        "content": "모가디슈"
       },
       {
         "point": "10",
-        "content": "로미오와 줄리엣"
+        "content": "산티아고"
       }
     ]
   },
   {
     "id": 10,
     "title": "Question10",
-    "question": "원성연은 잘생기고 멋있는 사람인가요?",
+    "question": "제주도는 돌, 바람, 여자가 많다고 해서 삼다도라고 불립니다. 그렇다면 도둑, 공해, 뱀이 없어 삼무도라고 불리는 우리나라의 \"이 섬\"은 어디일까요?",
     "answers": [
       {
         "point": "10",
-        "content": "네"
+        "content": "울릉도"
       },
       {
         "point": "0",
-        "content": "아니요"
+        "content": "독도"
       }
     ]
   }
