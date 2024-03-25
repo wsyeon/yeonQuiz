@@ -36,7 +36,7 @@ const StartPage = () => {
       if (timer < 0) {
         alert("새로고침을 해주세요");
       } else {
-        alert(`${timer}초 남았습니다`);
+        alert(`${Math.trunc(timer / 60)}분 ${timer % 60}초 남았습니다`);
       }
     } else {
       navigate(`/step?name=${name}`);
@@ -55,7 +55,7 @@ const StartPage = () => {
         </Header>
         <Body>
           <Title>
-            <h1>한남들의 상식 퀴즈!</h1>
+            <h1>상식 퀴즈!</h1>
             <p>
               총 10문제를 풀어 고득점을 획득하여
               <br />

@@ -6,7 +6,7 @@ import { IoSearch } from "react-icons/io5";
 import { AiOutlineMenu } from "react-icons/ai";
 import { CiSquarePlus } from "react-icons/ci";
 import styled from "styled-components";
-import yeon from "../img/yeon.jpeg";
+import yeon from "../img/yeon.png";
 import { Button } from "./StepPage";
 
 const ResultPage = () => {
@@ -56,7 +56,7 @@ const ResultPage = () => {
                 {name}님~ <br /> 고작 {total}점? ㅋㅋㅋㅋㅋ
               </p>
             </TextDiv>
-            <Button onClick={() => navigate("/")}>넌 다시해라 걍 ㅋ</Button>
+            <Button onClick={() => navigate("/")}>다시 도전하세요~</Button>
           </Body>
         )}
 
