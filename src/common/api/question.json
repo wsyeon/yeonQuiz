@@ -2,120 +2,120 @@
   {
     "id": 1,
     "title": "Question1",
-    "question": "태양계 8개 행성 중 고리를 가진 행성은 몇 개일까요?",
+    "question": "서아는 키가 몇 cm인가요?",
     "answers": [
       {
         "point": "0",
-        "content": "5개"
+        "content": "160cm"
       },
       {
         "point": "10",
-        "content": "4개"
+        "content": "164cm"
       }
     ]
   },
   {
     "id": 2,
     "title": "Question2",
-    "question": "눈에 들어온 평행 광선이 망막 뒤쪽에서 상을 맺어 먼 곳은 잘 보이지만, 가까운 곳은 잘 보이지 않는 눈을 무엇이라고 할까요?",
+    "question": "서아는 매운걸 좋아하나요?",
     "answers": [
       {
         "point": "10",
-        "content": "원시"
+        "content": "네"
       },
       {
         "point": "0",
-        "content": "근시"
+        "content": "아니요"
       }
     ]
   },
   {
     "id": 3,
     "title": "Question3",
-    "question": "명수의 머리에는 점심에 먹은 김치찌개 냄사가 (베어/배어)",
+    "question": "서아는 안경을 쓰나요?",
     "answers": [
       {
         "point": "0",
-        "content": "베어"
+        "content": "아니요"
       },
       {
         "point": "10",
-        "content": "배어"
+        "content": "네"
       }
     ]
   },
   {
     "id": 4,
     "title": "Question4",
-    "question": "이것은 유기 화합물이 발광하는 방식을 이용한 발광소자입니다. LCD를 대체할 디스플레이로 각광받고 있으며 많은 기업들이 연구 중에 있는 이 소자는 무엇일까요?",
+    "question": "서아는 예쁜가요?",
     "answers": [
       {
         "point": "0",
-        "content": "OLCD"
+        "content": "아니요"
       },
       {
         "point": "10",
-        "content": "OLED"
+        "content": "네"
       }
     ]
   },
   {
     "id": 5,
     "title": "Question5",
-    "question": "다음 중 화력발전에서 가장 많이 사용되는 원료는 무엇일까요?",
+    "question": "서아는 부천대생인가요?",
     "answers": [
       {
         "point": "10",
-        "content": "석탄"
+        "content": "네"
       },
       {
         "point": "0",
-        "content": "석유"
+        "content": "아니요"
       }
     ]
   },
   {
     "id": 6,
     "title": "Question6",
-    "question": "이것은 세계 공통 인사로, 중세시대 \"나에게는 당신을 해칠 무기가 없다는 것\"을 증명하던 행동에서 유래되었습니다. \"이 행위\"는 무엇일까요?",
+    "question": "서아는 인기쟁이인가요?",
     "answers": [
       {
         "point": "10",
-        "content": "악수"
+        "content": "네"
       },
       {
         "point": "0",
-        "content": "인사"
+        "content": "아니요"
       }
     ]
   },
   {
     "id": 7,
     "title": "Question7",
-    "question": "생물 분류 체계를 순서대로 적으면 종-속-과-?-강-문-계입니다. ?안에 들어갈 체계는 무엇일까요?",
+    "question": "서아는 공부를 잘하나요?",
     "answers": [
       {
         "point": "0",
-        "content": "막"
+        "content": "아니요"
       },
       {
         "point": "10",
-        "content": "목"
+        "content": "네"
       }
     ]
   },
   {
     "id": 8,
     "title": "Question8",
-    "question": "일정 기간 동안 사용한 전력의 양을 전력량이라고 합니다. 다음 중 우리가 실생활에서 전기료 측정하는 데 사용하는 전력량의 단위는 무엇일까요?",
+    "question": "서아는 귀여운가요?",
     "answers": [
       {
         "point": "10",
-        "content": "Wh(와트아워)"
+        "content": "네"
       },
       {
         "point": "0",
-        "content": "V(볼트)"
+        "content": "아니요"
       }
     ]
   },

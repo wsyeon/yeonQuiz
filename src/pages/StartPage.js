@@ -55,7 +55,7 @@ const StartPage = () => {
         </Header>
         <Body>
           <Title>
-            <h1>상식 퀴즈!</h1>
+            <h1>서아 퀴즈!</h1>
             <p>
               총 10문제를 풀어 고득점을 획득하여
               <br />

@@ -124,7 +124,7 @@ const Body = styled.div`
 const Question = styled.p`
   font-size: 18px;
   line-height: 22px;
-  margin: 28px auto;
+  margin: 10px auto 28px;
   text-align: center;
   padding: 0 15px;
 `;
@@ -159,7 +159,7 @@ const PrograssBar = styled.div`
   background-color: #fee500;
   width: ${(props) => props.$time * 10}%;
   height: 50%;
-  transition: 0.3;
+  transition: width 0.3s ease;
   border-radius: 20px;
   border: none;
 `;
